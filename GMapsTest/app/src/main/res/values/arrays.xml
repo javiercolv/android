@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_ptions">
+        <item>Menu</item>
+        <item>Configuración</item>
+        <item>Historial del día</item>
+        <item>Salir</item>
+    </string-array>
+</resources>

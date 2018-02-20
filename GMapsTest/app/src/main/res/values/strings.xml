@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GMapsTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="drawer_open">Cajon abierto</string>
+    <string name="drawer_close">Cajon cerrado</string>
+</resources>
